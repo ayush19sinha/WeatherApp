@@ -1,4 +1,4 @@
-package my.android.weatherapp
+package my.android.weatherapp.Data
 
 data class Sys(
     val country: String,
